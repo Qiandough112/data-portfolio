@@ -32,6 +32,5 @@ It includes coursework from my **Specialist Diploma in Data Science & AI (2025)*
 ---
 
 ## 📬 Contact
-**Sandy Ling Qian Hui**  
 📧 Email: s_ling1207@hotmail.com  
 
